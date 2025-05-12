@@ -94,16 +94,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="이메일"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="이메일"/>
         <br>
-        <code>dbqls3197@naver.com</code>
+        <code>jinstartup@gmail.com</code>
       </td>
       <td align="center">
-        <a href="https://github.com/dbqls3197">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          <br>
+        <a href="https://github.com/Jinyechan">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
+        <br>
         <code>이미지 클릭 시 이동</code>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Phone-25B24B?style=for-the-badge&logo=phone&logoColor=white" alt="전화번호"/>
+        <br>
+        <code>010-7255-5108</code>
       </td>
     </tr>
   </table>
