@@ -111,7 +111,12 @@
   <a href="https://github.com/Jinyechan/BatteryDefectDetection/tree/main">
     <img src="https://img.shields.io/badge/Battery_Defect_Detection-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="BatteryDefectDetection"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/Jinyechan/racing_game">
+    <img src="https://img.shields.io/badge/Neon_Drift_Racer-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Neon Drift Racer"/>
+  </a>
 </div>
+
 
 ---
 
