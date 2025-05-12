@@ -1,5 +1,15 @@
 # <div align="center">💡 코드로 세상을 읽고, 데이터로 답을 찾는 <strong>진예찬</strong>입니다.</div>
 
+<div align="center">
+
+| 생년월일 | 이메일 | 전화번호 | GitHub |
+|----------|--------|----------|--------|
+| 2005.01.31 | jinstartup@gmail.com | 010-7255-5108 | [Jinyechan](https://github.com/Jinyechan) |
+
+🏠 <sub><strong>주소</strong>: 경기도 수원시 영통구 청명남로 4번길 18</sub>
+
+</div>
+
 ---
 
 ## 🌿 기술 스택
