@@ -73,19 +73,19 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/dbqls3197/smart_city">
-          <img src="https://img.shields.io/badge/smart_city-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="smart_city"/>
+        <a href="https://github.com/Jinyechan/k-medical">
+          <img src="https://img.shields.io/badge/k-medical-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="k-medical"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/dbqls3197/individual_project">
-          <img src="https://img.shields.io/badge/business card-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="individual_project"/>
+        <a href="https://github.com/Jinyechan/BatteryDefectDetection/tree/main">
+          <img src="https://img.shields.io/badge/Battery_Defect_Detection-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="BatteryDefectDetection"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
-<br>
+
 
 
 ## 🌱 연락처
