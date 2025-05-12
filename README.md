@@ -1,46 +1,72 @@
-# <div align="center">파이썬을 기반으로 개발을 하고 있는 손유빈입니다.</div>
+# <div align="center">코드로 세상을 읽고, 데이터로 답을 찾는 진예찬입니다.</div>
 
 
 ## 🌿 기술 스택
 
 ### 💻 프로그래밍 언어
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 
 ### 🌐 웹 기술
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 
-### 🧩 백엔드
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+### 🧩 백엔드 & 프레임워크
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=flat)
+![MIT App Inventor](https://img.shields.io/badge/-MIT%20App%20Inventor-FFAB00?style=flat)
 
-### 📊 데이터 분석 / AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+### 🧪 데이터 분석 & 머신러닝
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)
 
-### 🔧 개발 도구
+### 🤖 AI / ML
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-black?style=flat)
+![FNN](https://img.shields.io/badge/-FNN-525252?style=flat)
+![U-Net](https://img.shields.io/badge/-U--Net-4A90E2?style=flat)
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![sLLM](https://img.shields.io/badge/-Ollama%20sLLM-9C27B0?style=flat)
+
+### 🔍 데이터 수집
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+
+### 🛠️ 개발 도구 및 협업
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat)
 
-### 💾 서버 / 인프라
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+### ☁️ 인프라 / DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 🔍 기타 도구
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=firefox&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/-Requests-2D8CFF?style=flat&logo=python&logoColor=white)
-![API](https://img.shields.io/badge/-API-FFB300?style=flat&logo=fastapi&logoColor=white)
-![Mantis](https://img.shields.io/badge/-Mantis-E87C09?style=flat&logo=bugatti&logoColor=white)
-<br>
+### 🤖 IoT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![ESP32-CAM](https://img.shields.io/badge/-ESP32--CAM-3C3C3C?style=flat)
+
+### 🗃️ DB 및 도구
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat)
+
+### 📋 문서 및 보고
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+
 
 ## 🎋 프로젝트
 <div align="center">
